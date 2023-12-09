@@ -1,5 +1,5 @@
 # Project Demo:
-![Demo.mp4](./Demo.mp4)
+![Video](https://github.com/ShehrozWaseem/BCDV-4023-/blob/main/MintNFT-Assignment2/Demo.mp4)
 
 # Getting Started with Create React App
 
