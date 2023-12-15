@@ -2,6 +2,11 @@
 
 This React application interacts with a Chainlink Oracle smart contract to fetch price information for different assets. Users can select an asset from a list and retrieve the latest price using the Chainlink Oracle.
 
+# DEMO
+https://github.com/ShehrozWaseem/BCDV-4023-/assets/51531489/2de4b861-85ff-458a-ba85-c114c8177e1a
+
+
+
 ## Setup
 
 ### ORACLE BASED PRICE FEED DAPP USING CHAINLINK
